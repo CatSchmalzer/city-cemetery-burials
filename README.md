@@ -1,12 +1,13 @@
+This was a project for the Nashville Software School Data Analysis Bootcamp in Spring 2020, using Excel pivot tables and pivot charts. 
+
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. 
 This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
-The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials. 
-The following exercises are a starting point for exploring the data and creating visualizations. 
-Once you have completed the exercises below, create additional visualizations to accompany storytelling points. 
-An example of this is shown below for the first exercise.
+The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials.
+ 
+The following exercises were my starting point for exploring the data and creating visualizations. 
 
-![top 10 causes](/assets/top_10_death_causes.png)
+![Nashville City Cemetery Ad](assets/Historic_Nashville_City_Cemetery_marketing_Project.jpg)
 
 1.	Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. 
 	Once you have your metrics, plot these in a **bar chart**. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. You will need to **refresh your pivot table** to see changes applied.
@@ -31,7 +32,6 @@ An example of this is shown below for the first exercise.
     	b.	What are the most common last names of people buried in this cemetery?  
     	c.	There was a particularly famous person buried in this cemetery. Can you find that person?
 
-7. 	Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
 #### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Put all final charts (along with the related story) on their own worksheet. You should only include charts on this sheet that you think deliver what has been asked for.
